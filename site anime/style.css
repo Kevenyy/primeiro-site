@@ -1,0 +1,118 @@
+*{ 
+  margin: 0;
+  padding: 0;
+  font-family: 'League Spartan', sans-serif;
+}
+  
+body{
+  background-color: aliceblue;
+  font-family: 'League Spartan', sans-serif;
+  font-size: larger;
+  text-shadow: 3px 3px 3px #ababab;
+}
+
+h1{
+  text-align: center;
+  margin-top: 100px;
+}
+
+.img-1{
+  width: 200px;
+  height: 300px;
+}
+
+.img-2{
+  width: 200px;
+  height: 300px;
+ }
+
+.img-3{
+  width: 200px;
+  height: 300px;
+}
+   
+ .main-animes{
+  display: flex;
+  justify-content: space-between;
+  margin: 100px;
+ }
+
+
+
+ .tenis-1{
+
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 100px 60px ;
+  width: 200px;
+  height: 400px;
+  box-shadow: 0px 3px 40px #000;
+  justify-content: center;
+  }
+
+
+ .butao{
+  width: 200px;
+  height: 40px;
+  margin-top: 40px;
+  text-transform: uppercase;
+ }
+  
+ a{
+  text-decoration: none;
+  color: #000;
+ }
+
+.login{
+  display:flex;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 100px 60px ;
+  width: 200px;
+  height: 100px;
+  box-shadow: 0px 3px 40px #000;
+  margin-top: 30vh;
+  justify-content: center;
+ }
+ 
+.main-login{
+  display: flex;
+  justify-content:space-evenly; 
+  margin: 150px;
+  align-items: center;
+ }
+
+.butao-login{
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  background-color:lightcyan
+   }
+  
+.a-login{
+  font-size: x-large;
+  color:#000
+   } 
+
+ .main-s{
+  text-align: center;
+ }
+ 
+.video{
+ width: 700px;
+ height: 700px;
+}
+
+
+      
+      
+
+     
+
+    
+
+
+
+     
+   
